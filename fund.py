@@ -19,3 +19,4 @@ state = df['state'].tolist()
 browser = df['browser'].tolist()
 platform = df['platform'].tolist()
 
+print("yo waddup")
