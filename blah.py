@@ -11,3 +11,4 @@ web = inv['webpage']
 state = inv['state']
 platform = inv['platform']
 print(inv)
+print(inv)
